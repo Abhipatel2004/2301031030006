@@ -1,0 +1,76 @@
+.iphone-14-15-pro-max-4-child {
+  position: absolute;
+  top: 45px;
+  left: 27px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-forestgreen-100);
+  width: 376px;
+  height: 60px;
+}
+.cb-shine {
+  position: absolute;
+  top: 56px;
+  left: 144px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: var(--color-fuchsia);
+}
+.c165f525-1-icon,
+.honda-cb-shine-sp-bike-1-icon {
+  position: absolute;
+  top: 130px;
+  left: 17px;
+  border-radius: var(--br-mini);
+  width: 386px;
+  height: 304px;
+  object-fit: cover;
+}
+.honda-cb-shine-sp-bike-1-icon {
+  top: 496px;
+  left: 1px;
+  width: 430px;
+  height: 277px;
+}
+.iphone-14-15-pro-max-4-item {
+  position: absolute;
+  top: 835px;
+  left: 27px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.back1 {
+  position: absolute;
+  top: 840px;
+  left: 71px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-4-inner {
+  position: absolute;
+  top: 835px;
+  left: 256px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.next2 {
+  position: absolute;
+  top: 840px;
+  left: 300px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red);
+  font-family: var(--font-inter);
+}

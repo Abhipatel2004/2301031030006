@@ -1,0 +1,77 @@
+.iphone-14-15-pro-max-6-child {
+  position: absolute;
+  top: 33px;
+  left: 27px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-forestgreen-100);
+  width: 376px;
+  height: 60px;
+}
+.yamaha {
+  position: absolute;
+  top: 41px;
+  left: 144px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  color: var(--color-fuchsia);
+}
+.mt-15-2-063ea25b00fa58-1-icon {
+  position: absolute;
+  top: 229px;
+  left: 7px;
+  border-radius: var(--br-mini);
+  width: 410px;
+  height: 239px;
+  object-fit: cover;
+}
+.yamaha-fz-x-ride-free-bike-1-icon {
+  position: absolute;
+  top: 482px;
+  left: 14px;
+  width: 403px;
+  height: 363px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-6-item {
+  position: absolute;
+  top: 845px;
+  left: 35px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.back3 {
+  position: absolute;
+  top: 850px;
+  left: 79px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-6-inner {
+  position: absolute;
+  top: 845px;
+  left: 252px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.next4 {
+  position: absolute;
+  top: 850px;
+  left: 296px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red);
+  font-family: var(--font-inter);
+}

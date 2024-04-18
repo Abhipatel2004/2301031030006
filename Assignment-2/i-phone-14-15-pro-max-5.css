@@ -1,0 +1,75 @@
+.iphone-14-15-pro-max-5-child {
+  position: absolute;
+  top: 33px;
+  left: 27px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-forestgreen-100);
+  width: 376px;
+  height: 60px;
+}
+.bmw {
+  position: absolute;
+  top: 41px;
+  left: 167px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  color: var(--color-fuchsia);
+}
+.bmw-g-310-r-1-icon,
+.bmw-motorrad-bike-1-icon {
+  position: absolute;
+  top: 158px;
+  left: 12px;
+  width: 405px;
+  height: 321px;
+  object-fit: cover;
+}
+.bmw-g-310-r-1-icon {
+  top: 514px;
+  left: -46px;
+  width: 521px;
+  height: 338px;
+}
+.iphone-14-15-pro-max-5-item {
+  position: absolute;
+  top: 832px;
+  left: 45px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.back2 {
+  position: absolute;
+  top: 837px;
+  left: 89px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-5-inner {
+  position: absolute;
+  top: 832px;
+  left: 256px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.next3 {
+  position: absolute;
+  top: 837px;
+  left: 300px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red);
+  font-family: var(--font-inter);
+}

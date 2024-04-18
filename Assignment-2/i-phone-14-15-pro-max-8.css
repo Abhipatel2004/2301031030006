@@ -1,0 +1,126 @@
+.iphone-14-15-pro-max-8-child {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  background-color: var(--color-orangered);
+  width: 430px;
+  height: 68px;
+}
+.contact-us {
+  position: absolute;
+  top: 34px;
+  left: 115px;
+  font-weight: 800;
+  color: #fcfcfc;
+}
+.iphone-14-15-pro-max-8-item {
+  position: absolute;
+  top: 149px;
+  left: 23px;
+  border-radius: var(--br-6xl);
+  background-color: #00ff29;
+  width: 384px;
+  height: 100px;
+}
+.bike-at-best {
+  position: absolute;
+  top: 177px;
+  left: 71px;
+  font-weight: 800;
+  color: #0047ff;
+}
+.iphone-14-15-pro-max-8-inner {
+  position: absolute;
+  top: 299px;
+  left: 16px;
+  background-color: #d9d9d9;
+  width: 396px;
+  height: 392px;
+}
+.message {
+  top: 495px;
+}
+.e-mail,
+.message,
+.name {
+  position: absolute;
+  left: 28px;
+  font-weight: 800;
+}
+.e-mail {
+  top: 422px;
+  display: inline-block;
+  width: 122px;
+  height: 44px;
+}
+.name {
+  top: 336px;
+}
+.iphone-14-15-pro-max-8-child1,
+.iphone-14-15-pro-max-8-child2,
+.iphone-14-15-pro-max-8-child3 {
+  position: absolute;
+  top: 336px;
+  left: 180px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 215px;
+  height: 44px;
+}
+.iphone-14-15-pro-max-8-child2,
+.iphone-14-15-pro-max-8-child3 {
+  top: 422px;
+}
+.iphone-14-15-pro-max-8-child3 {
+  top: 547px;
+  left: 28px;
+  border-radius: var(--br-11xl);
+  width: 367px;
+  height: 123px;
+}
+.iphone-14-15-pro-max-8-child4 {
+  position: absolute;
+  top: 733px;
+  left: 58px;
+  border-radius: var(--br-mini);
+  background-color: #ffe601;
+  width: 321px;
+  height: 48px;
+}
+.send-message {
+  position: absolute;
+  top: 737px;
+  left: 102px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: var(--color-red);
+}
+.iphone-14-15-pro-max-8-child5 {
+  position: absolute;
+  top: 810px;
+  left: 45px;
+  border-radius: var(--br-mini);
+  background-color: #f09;
+  width: 359px;
+  height: 57px;
+}
+.go-to-home {
+  position: absolute;
+  top: 819px;
+  left: 124px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: #24ff00;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

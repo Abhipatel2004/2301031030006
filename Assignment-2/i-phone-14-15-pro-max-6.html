@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./i-phone-14-15-pro-max-6.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@1,400;1,500;1,800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-6">
+      <div class="iphone-14-15-pro-max-6-child"></div>
+      <i class="yamaha">Yamaha</i>
+      <img
+        class="mt-15-2-063ea25b00fa58-1-icon"
+        alt=""
+        src="./public/mt152063ea25b00fa58-1@2x.png"
+      />
+
+      <img
+        class="yamaha-fz-x-ride-free-bike-1-icon"
+        alt=""
+        src="./public/yamahafzxridefreebike-1@2x.png"
+      />
+
+      <div class="iphone-14-15-pro-max-6-item"></div>
+      <i class="back3" id="backText">Back</i>
+      <div class="iphone-14-15-pro-max-6-inner"></div>
+      <i class="next4" id="nextText">Next</i>
+      <a href="i-phone-14-15-pro-max-7.html"><i class="next4" id="nextText">Next</i></a>
+      <a href="i-phone-14-15-pro-max-5.html"><i class="back3" id="backText">Back</i></a>
+    </div>
+
+    <script>
+      var backText = document.getElementById("backText");
+      if (backText) {
+        backText.addEventListener("click", function (e) {
+          window.location.href = "./i-phone1415-pro-max5.html";
+        });
+      }
+      
+      var nextText = document.getElementById("nextText");
+      if (nextText) {
+        nextText.addEventListener("click", function (e) {
+          window.location.href = "./i-phone1415-pro-max7.html";
+        });
+      }
+      </script>
+  </body>
+</html>

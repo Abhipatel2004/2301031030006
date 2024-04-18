@@ -1,0 +1,70 @@
+.rectangle-icon {
+  position: absolute;
+  top: 22px;
+  left: 14px;
+  border-radius: var(--br-11xl);
+  width: 404px;
+  height: 62px;
+}
+.activa {
+  position: absolute;
+  top: 41px;
+  left: 161px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-weight: 800;
+  color: var(--color-fuchsia);
+  width: 110px;
+  height: 43px;
+}
+.matte-axis-grey-metallic-honda-icon {
+  position: absolute;
+  top: 110px;
+  left: -143px;
+  width: 675px;
+  height: 398px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-1-child1 {
+  position: absolute;
+  top: 873px;
+  left: 36px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.back {
+  position: absolute;
+  top: 878px;
+  left: 80px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-1-child2 {
+  position: absolute;
+  top: 873px;
+  left: 255px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.next1 {
+  position: absolute;
+  top: 878px;
+  left: 299px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-11 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red);
+  font-family: var(--font-inter);
+}

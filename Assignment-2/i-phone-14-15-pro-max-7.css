@@ -1,0 +1,77 @@
+.iphone-14-15-pro-max-7-child {
+  position: absolute;
+  top: 45px;
+  left: 27px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-forestgreen-100);
+  width: 376px;
+  height: 60px;
+}
+.royal-enfield {
+  position: absolute;
+  top: 56px;
+  left: 112px;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: var(--color-fuchsia);
+}
+.right-side-view-1284781791-600-icon {
+  position: absolute;
+  top: 196px;
+  left: 23px;
+  border-radius: var(--br-mini);
+  width: 399px;
+  height: 247px;
+  object-fit: cover;
+}
+.royal-enfield-classic-350-abs-icon {
+  position: absolute;
+  top: 498px;
+  left: 0;
+  width: 422px;
+  height: 264px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-7-item {
+  position: absolute;
+  top: 817px;
+  left: 27px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.back4 {
+  position: absolute;
+  top: 822px;
+  left: 71px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-7-inner {
+  position: absolute;
+  top: 817px;
+  left: 256px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 147px;
+  height: 39px;
+}
+.next5 {
+  position: absolute;
+  top: 822px;
+  left: 300px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red);
+  font-family: var(--font-inter);
+}

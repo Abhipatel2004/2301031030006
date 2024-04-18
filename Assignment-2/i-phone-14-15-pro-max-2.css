@@ -1,0 +1,122 @@
+.iphone-14-15-pro-max-2-child {
+  position: absolute;
+  top: 17px;
+  left: 38px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-orangered);
+  width: 354px;
+  height: 68px;
+}
+.welcome {
+  position: absolute;
+  top: 27px;
+  left: 122px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  color: var(--color-white);
+}
+.iphone-14-15-pro-max-2-item {
+  position: absolute;
+  top: 159px;
+  left: 18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aqua);
+  width: 104px;
+  height: 47px;
+  
+}
+.home {
+  position: absolute;
+  top: 168px;
+  left: 36px;
+  font-weight: 500;
+}
+.iphone-14-15-pro-max-2-inner {
+  position: absolute;
+  top: 159px;
+  left: 18px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aqua);
+  width: 104px;
+  height: 47px;
+  cursor: pointer;
+}
+.home1 {
+  position: absolute;
+  top: 170px;
+  left: 42px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.iphone-14-15-pro-max-2-child1 {
+  position: absolute;
+  top: 159px;
+  left: 158px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aqua);
+  width: 104px;
+  height: 47px;
+}
+.home2 {
+  position: absolute;
+  top: 168px;
+  left: 176px;
+  font-weight: 500;
+}
+.iphone-14-15-pro-max-2-child2 {
+  position: absolute;
+  top: 159px;
+  left: 169px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aqua);
+  width: 104px;
+  height: 47px;
+}
+.about {
+  position: absolute;
+  top: 170px;
+  left: 183px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.iphone-14-15-pro-max-2-child3 {
+  position: absolute;
+  top: 159px;
+  left: 308px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aqua);
+  width: 104px;
+  height: 47px;
+}
+.contact,
+.home3 {
+  position: absolute;
+  top: 168px;
+  left: 326px;
+  font-weight: 500;
+}
+.contact {
+  top: 170px;
+  left: 321px;
+  font-size: var(--font-size-xl);
+}
+.honda-cb-shine-sp-bs6-500x500-icon {
+  position: absolute;
+  top: 397px;
+  left: 12px;
+  border-radius: var(--br-6xl);
+  width: 397px;
+  height: 397px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-orangered);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./i-phone-14-15-pro-max-3.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@1,400;1,500;1,800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-3">
+      <div class="iphone-14-15-pro-max-3-child"></div>
+      <i class="continue-shopping">Continue Shopping</i>
+      <img
+        class="cover-650bf9a32396c-1-icon"
+        alt=""
+        src="./public/cover-650bf9a32396c-1@2x.png"
+      />
+
+      <img
+        class="honda-livo-bike-1-icon"
+        alt=""
+        src="./public/hondalivobike-1@2x.png"
+      />
+
+      <div class="iphone-14-15-pro-max-3-item"></div>
+      <i class="next" id="nextText">Next</i>
+      <a href="i-phone-14-15-pro-max-1.html"><i class="next" id="nextText">Next</i></a>
+    </div>
+
+    <script>
+      var nextText = document.getElementById("nextText");
+      if (nextText) {
+        nextText.addEventListener("click", function (e) {
+          window.location.href = "./i-phone1415-pro-max3.html";
+        });
+      }
+      </script>
+  </body>
+</html>
